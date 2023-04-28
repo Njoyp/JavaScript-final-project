@@ -77,4 +77,3 @@ for (let i = 0; i < mockData.length; i++) {
 console.log(`You have ${numberOfMatches} matches.`)
 console.log("This are your matches:")
 console.log(matchArray)
-//test
